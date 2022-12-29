@@ -1,0 +1,2 @@
+[env]
+RULES_RUST_RUNFILES_WORKSPACE_NAME = "rules_rust"
